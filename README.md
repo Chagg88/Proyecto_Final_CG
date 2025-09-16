@@ -1,4 +1,4 @@
-# 📊 Análisis de Ventas y Perfil de Clientes en Tienda de Ropa Deportiva
+# 📊 Proyecto Final - Análisis Tienda de Ropa Deportiva
 
 ## 📖 Descripción del Proyecto
 Este proyecto realiza un análisis exhaustivo de los productos vendidos y del perfil de los clientes de una tienda especializada en ropa deportiva. Se busca estudiar el comportamiento de ventas, evaluar características de productos, y segmentar clientes para identificar patrones de consumo y optimizar estrategias comerciales. El análisis se basa en técnicas de análisis exploratorio, estadístico y visualización de datos.
